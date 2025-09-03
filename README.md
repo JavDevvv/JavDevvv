@@ -45,12 +45,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=javdevvv&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javdevvv&layout=compact&theme=tokyonight" alt="langs" height="160"/>
 </p>
-
----
-
-## 🎯 Fun Fact  
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="330" alt="Coding fun"/>
   <br>
-  <em>"Code, coffee ☕, repeat 🔄"</em>
+  <em>"Eat, Sleep, Code, Repeat 🔄"</em>
 </p>
