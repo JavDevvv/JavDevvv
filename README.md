@@ -18,6 +18,9 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="340" alt="Tools gif"/>
+</p>
+<p align="center">
   <a href="https://linkedin.com/in/javier-keme-509648319" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
@@ -35,11 +38,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,angular,php,laravel,nodejs,express,python,java,dart,html,css,bootstrap,tailwind,mysql,postgresql,sqlite,firebase,azure,git,linux,figma,unity,tensorflow" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="340" alt="Tools gif"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats  
